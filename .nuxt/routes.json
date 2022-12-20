@@ -1,0 +1,303 @@
+[
+  {
+    "name": "about-about-dark",
+    "path": "/about/about-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\about\\\\about-dark.vue",
+    "chunkName": "pages/about/about-dark",
+    "_name": "_f04f7dae"
+  },
+  {
+    "name": "about-about-light",
+    "path": "/about/about-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\about\\\\about-light.vue",
+    "chunkName": "pages/about/about-light",
+    "_name": "_0d1365f3"
+  },
+  {
+    "name": "blog-details-blog-details-dark",
+    "path": "/blog-details/blog-details-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\blog-details\\\\blog-details-dark.vue",
+    "chunkName": "pages/blog-details/blog-details-dark",
+    "_name": "_1728024a"
+  },
+  {
+    "name": "blog-details-blog-details-light",
+    "path": "/blog-details/blog-details-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\blog-details\\\\blog-details-light.vue",
+    "chunkName": "pages/blog-details/blog-details-light",
+    "_name": "_32f75e81"
+  },
+  {
+    "name": "blog-grid-blog-grid-dark",
+    "path": "/blog-grid/blog-grid-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\blog-grid\\\\blog-grid-dark.vue",
+    "chunkName": "pages/blog-grid/blog-grid-dark",
+    "_name": "_666581ae"
+  },
+  {
+    "name": "blog-grid-blog-grid-light",
+    "path": "/blog-grid/blog-grid-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\blog-grid\\\\blog-grid-light.vue",
+    "chunkName": "pages/blog-grid/blog-grid-light",
+    "_name": "_66be27f3"
+  },
+  {
+    "name": "blog-list-blog-list-dark",
+    "path": "/blog-list/blog-list-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\blog-list\\\\blog-list-dark.vue",
+    "chunkName": "pages/blog-list/blog-list-dark",
+    "_name": "_be94b3ae"
+  },
+  {
+    "name": "blog-list-blog-list-light",
+    "path": "/blog-list/blog-list-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\blog-list\\\\blog-list-light.vue",
+    "chunkName": "pages/blog-list/blog-list-light",
+    "_name": "_0fe2a0f3"
+  },
+  {
+    "name": "blog-blog-dark",
+    "path": "/blog/blog-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\blog\\\\blog-dark.vue",
+    "chunkName": "pages/blog/blog-dark",
+    "_name": "_0e3e0076"
+  },
+  {
+    "name": "blog-blog-light",
+    "path": "/blog/blog-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\blog\\\\blog-light.vue",
+    "chunkName": "pages/blog/blog-light",
+    "_name": "_85bb0a52"
+  },
+  {
+    "name": "contact-contact-dark",
+    "path": "/contact/contact-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\contact\\\\contact-dark.vue",
+    "chunkName": "pages/contact/contact-dark",
+    "_name": "_36cd3189"
+  },
+  {
+    "name": "contact-contact-light",
+    "path": "/contact/contact-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\contact\\\\contact-light.vue",
+    "chunkName": "pages/contact/contact-light",
+    "_name": "_3cbc8193"
+  },
+  {
+    "name": "homepage-home1-dark",
+    "path": "/homepage/home1-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\homepage\\\\home1-dark.vue",
+    "chunkName": "pages/homepage/home1-dark",
+    "_name": "_b37a2dae"
+  },
+  {
+    "name": "homepage-home1-light",
+    "path": "/homepage/home1-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\homepage\\\\home1-light.vue",
+    "chunkName": "pages/homepage/home1-light",
+    "_name": "_8804841a"
+  },
+  {
+    "name": "homepage-home2-dark",
+    "path": "/homepage/home2-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\homepage\\\\home2-dark.vue",
+    "chunkName": "pages/homepage/home2-dark",
+    "_name": "_cae74b70"
+  },
+  {
+    "name": "homepage-home2-light",
+    "path": "/homepage/home2-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\homepage\\\\home2-light.vue",
+    "chunkName": "pages/homepage/home2-light",
+    "_name": "_50e270b4"
+  },
+  {
+    "name": "homepage-home3-dark",
+    "path": "/homepage/home3-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\homepage\\\\home3-dark.vue",
+    "chunkName": "pages/homepage/home3-dark",
+    "_name": "_e2546932"
+  },
+  {
+    "name": "homepage-home3-light",
+    "path": "/homepage/home3-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\homepage\\\\home3-light.vue",
+    "chunkName": "pages/homepage/home3-light",
+    "_name": "_3471b916"
+  },
+  {
+    "name": "homepage-home4-dark",
+    "path": "/homepage/home4-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\homepage\\\\home4-dark.vue",
+    "chunkName": "pages/homepage/home4-dark",
+    "_name": "_f9c186f4"
+  },
+  {
+    "name": "homepage-home4-light",
+    "path": "/homepage/home4-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\homepage\\\\home4-light.vue",
+    "chunkName": "pages/homepage/home4-light",
+    "_name": "_7aabd636"
+  },
+  {
+    "name": "homepage-home5-dark",
+    "path": "/homepage/home5-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\homepage\\\\home5-dark.vue",
+    "chunkName": "pages/homepage/home5-dark",
+    "_name": "_7768ada5"
+  },
+  {
+    "name": "homepage-home5-light",
+    "path": "/homepage/home5-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\homepage\\\\home5-light.vue",
+    "chunkName": "pages/homepage/home5-light",
+    "_name": "_0f9088f7"
+  },
+  {
+    "name": "homepage-home6-dark",
+    "path": "/homepage/home6-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\homepage\\\\home6-dark.vue",
+    "chunkName": "pages/homepage/home6-dark",
+    "_name": "_6bb21ec4"
+  },
+  {
+    "name": "homepage-home6-light",
+    "path": "/homepage/home6-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\homepage\\\\home6-light.vue",
+    "chunkName": "pages/homepage/home6-light",
+    "_name": "_b7158890"
+  },
+  {
+    "name": "homepage-home7-dark",
+    "path": "/homepage/home7-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\homepage\\\\home7-dark.vue",
+    "chunkName": "pages/homepage/home7-dark",
+    "_name": "_5ffb8fe3"
+  },
+  {
+    "name": "homepage-home7-light",
+    "path": "/homepage/home7-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\homepage\\\\home7-light.vue",
+    "chunkName": "pages/homepage/home7-light",
+    "_name": "_3959ee79"
+  },
+  {
+    "name": "homepage-home8-dark",
+    "path": "/homepage/home8-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\homepage\\\\home8-dark.vue",
+    "chunkName": "pages/homepage/home8-dark",
+    "_name": "_54450102"
+  },
+  {
+    "name": "homepage-home8-light",
+    "path": "/homepage/home8-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\homepage\\\\home8-light.vue",
+    "chunkName": "pages/homepage/home8-light",
+    "_name": "_6382bd8c"
+  },
+  {
+    "name": "project-details2-project-details2-dark",
+    "path": "/project-details2/project-details2-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\project-details2\\\\project-details2-dark.vue",
+    "chunkName": "pages/project-details2/project-details2-dark",
+    "_name": "_f5c5977e"
+  },
+  {
+    "name": "project-details2-project-details2-light",
+    "path": "/project-details2/project-details2-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\project-details2\\\\project-details2-light.vue",
+    "chunkName": "pages/project-details2/project-details2-light",
+    "_name": "_8f26544a"
+  },
+  {
+    "name": "showcase-showcase-dark",
+    "path": "/showcase/showcase-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\showcase\\\\showcase-dark.vue",
+    "chunkName": "pages/showcase/showcase-dark",
+    "_name": "_47cca52f"
+  },
+  {
+    "name": "showcase-showcase-light",
+    "path": "/showcase/showcase-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\showcase\\\\showcase-light.vue",
+    "chunkName": "pages/showcase/showcase-light",
+    "_name": "_4bab82ad"
+  },
+  {
+    "name": "showcase2-showcase2-dark",
+    "path": "/showcase2/showcase2-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\showcase2\\\\showcase2-dark.vue",
+    "chunkName": "pages/showcase2/showcase2-dark",
+    "_name": "_0e0a73a9"
+  },
+  {
+    "name": "showcase2-showcase2-light",
+    "path": "/showcase2/showcase2-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\showcase2\\\\showcase2-light.vue",
+    "chunkName": "pages/showcase2/showcase2-light",
+    "_name": "_4d278373"
+  },
+  {
+    "name": "showcase3-showcase3-dark",
+    "path": "/showcase3/showcase3-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\showcase3\\\\showcase3-dark.vue",
+    "chunkName": "pages/showcase3/showcase3-dark",
+    "_name": "_0eecda49"
+  },
+  {
+    "name": "showcase3-showcase3-light",
+    "path": "/showcase3/showcase3-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\showcase3\\\\showcase3-light.vue",
+    "chunkName": "pages/showcase3/showcase3-light",
+    "_name": "_6891f0d3"
+  },
+  {
+    "name": "works-works-dark",
+    "path": "/works/works-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\works\\\\works-dark.vue",
+    "chunkName": "pages/works/works-dark",
+    "_name": "_bb2a4a6e"
+  },
+  {
+    "name": "works-works-light",
+    "path": "/works/works-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\works\\\\works-light.vue",
+    "chunkName": "pages/works/works-light",
+    "_name": "_44d40053"
+  },
+  {
+    "name": "works2-works2-dark",
+    "path": "/works2/works2-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\works2\\\\works2-dark.vue",
+    "chunkName": "pages/works2/works2-dark",
+    "_name": "_9f3c67ae"
+  },
+  {
+    "name": "works2-works2-light",
+    "path": "/works2/works2-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\works2\\\\works2-light.vue",
+    "chunkName": "pages/works2/works2-light",
+    "_name": "_14898a1a"
+  },
+  {
+    "name": "works3-works3-dark",
+    "path": "/works3/works3-dark",
+    "component": "D:\\\\Hegazi\\\\pages\\\\works3\\\\works3-dark.vue",
+    "chunkName": "pages/works3/works3-dark",
+    "_name": "_693d1f67"
+  },
+  {
+    "name": "works3-works3-light",
+    "path": "/works3/works3-light",
+    "component": "D:\\\\Hegazi\\\\pages\\\\works3\\\\works3-light.vue",
+    "chunkName": "pages/works3/works3-light",
+    "_name": "_584a4f75"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Hegazi\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4c284e38"
+  }
+]
