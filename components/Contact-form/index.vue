@@ -6,7 +6,7 @@
           <div class="form md-mb50">
             <h4 class="fw-700 color-font mb-50">Get In Touch.</h4>
 
-            <form id="contact-form">
+            <form id="contact-form" method="get">
               <div class="messages"></div>
 
               <div class="controls">
@@ -26,6 +26,16 @@
                     type="email"
                     name="email"
                     placeholder="Email"
+                    required="required"
+                  />
+                </div>
+
+                <div class="form-group">
+                  <input
+                    id="form_subject"
+                    type="text"
+                    name="subject"
+                    placeholder="Subject"
                     required="required"
                   />
                 </div>
@@ -53,31 +63,33 @@
             <h3 class="wow" data-splitting>{{ contentFormData.title }}</h3>
             <div class="item mb-40">
               <h5>
-                <NuxtLink to="#0">{{ contentFormData.email }}</NuxtLink>
+                <a href="mailto:mustafa.hegazi08@gmail.com">{{ contentFormData.email }}</a>
               </h5>
-              <h5>{{ contentFormData.phone }}</h5>
-            </div>
-            <h3 class="wow" data-splitting>Visit Us.</h3>
-            <div class="item">
               <h6>
-                {{ contentFormData.location.first }}
+                {{ contentFormData.phone.first }}
                 <br />
-                {{ contentFormData.location.second }}
+                {{ contentFormData.phone.second }}
               </h6>
             </div>
+            <h3 class="wow" data-splitting>Visit Me.</h3>
+            <div class="item">
+              <h5>
+                {{ contentFormData.location }}
+              </h5>
+            </div>
             <div class="social mt-50">
-              <NuxtLink to="#0" class="icon">
+              <a href="https://www.facebook.com/mustafa.hegazi.08" class="icon">
                 <i class="fab fa-facebook-f"></i>
-              </NuxtLink>
-              <NuxtLink to="#0" class="icon">
+              </a>
+              <a href="https://twitter.com/HEGZO08" class="icon">
                 <i class="fab fa-twitter"></i>
-              </NuxtLink>
-              <NuxtLink to="#0" class="icon">
-                <i class="fab fa-pinterest"></i>
-              </NuxtLink>
-              <NuxtLink to="#0" class="icon">
-                <i class="fab fa-behance"></i>
-              </NuxtLink>
+              </a>
+              <a href="https://www.instagram.com/mustafahegazi8/" class="icon">
+                <i class="fab fa-instagram"></i>
+              </a>
+              <a href="https://www.linkedin.com/in/mustafahegazi08/" class="icon">
+                <i class="fab fa-linkedin"></i>
+              </a>
             </div>
           </div>
         </div>

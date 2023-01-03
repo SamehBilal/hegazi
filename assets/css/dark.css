@@ -6552,11 +6552,25 @@ span:hover {
 .testimonials:hover .arrows .next,
 .testimonials:hover .arrows .prev {
   opacity: 1;
-  right: 17%;
+  right: 9%;
+}
+
+#submitContactForm:hover{
+  color: #343a40;
+}
+
+#resumeButton{
+  cursor:pointer;
+  background: -webkit-gradient(linear, left top, right top, from(#12c2e9), color-stop(#c471ed), to(#f64f59));
+  background: -webkit-linear-gradient(left, #12c2e9, #c471ed, #f64f59);
+  background: -o-linear-gradient(left, #12c2e9, #c471ed, #f64f59);
+  background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+  margin-top: 1em;
+  padding: 10px 30px;
 }
 
 .testimonials:hover .arrows .prev {
-  left: 17%;
+  left: 9%;
 }
 
 .testimonials.lftstl .item {

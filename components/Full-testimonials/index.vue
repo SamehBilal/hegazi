@@ -38,16 +38,15 @@
                 <div class="cont">
                   <div class="author">
                     <div class="img">
-                      <img src="/img/clients/1.jpg" alt="" />
+                      <img src="/img/clients/1.png" alt="" />
                     </div>
-                    <h6 class="author-name color-font">Alex Regelman</h6>
-                    <span class="author-details"> Co-founder, Colabrio </span>
+                    <h6 class="author-name color-font">Sameh Bilal</h6>
+                    <span class="author-details"> Senior Backend Developer, Arabhardware </span>
                   </div>
                 </div>
               </div>
               <p>
-                I would highly recommend Vie Digital. I worked with the team on
-                an animation for our ‘Click &amp; Collect’ service.
+                Mustafa is one of the most determined professionals I've met. He consistently finished his projects early and with high client satisfaction rates.
               </p>
             </div>
             <div class="item">

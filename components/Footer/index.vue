@@ -93,23 +93,23 @@
               <img src="/img/logo-light.png" alt="logo" />
             </div>
             <div class="social">
-              <NuxtLink to="https://www.facebook.com/mustafa.hegazi.08">
+              <a href="https://www.facebook.com/mustafa.hegazi.08">
                 <i class="fab fa-facebook-f"></i>
-              </NuxtLink>
-              <NuxtLink to="https://twitter.com/HEGZO08">
+              </a>
+              <a href="https://twitter.com/HEGZO08">
                 <i class="fab fa-twitter"></i>
-              </NuxtLink>
-              <NuxtLink to="https://www.instagram.com/mustafahegazi8/">
+              </a>
+              <a href="https://www.instagram.com/mustafahegazi8/">
                 <i class="fab fa-instagram"></i>
-              </NuxtLink>
-              <NuxtLink to="https://www.linkedin.com/in/mustafahegazi08/">
+              </a>
+              <a href="https://www.linkedin.com/in/mustafahegazi08/">
                 <i class="fab fa-linkedin"></i>
-              </NuxtLink>
+              </a>
             </div>
             <div class="copy-right">
               <p>
-                © 2022, Made with passion by
-                <!-- <NuxtLink to="#0">ThemesCamp</NuxtLink> -->.
+                © <span id="year"></span>, Made with passion by
+                <a href="https://samehbilal.000webhostapp.com/">Sameh Bilal</a>.
               </p>
             </div>
           </div>
@@ -121,7 +121,10 @@
 
 <script>
 export default {
-    props: ['hideBGCOLOR']
+    props: ['hideBGCOLOR'],
+    mounted() {
+      document.getElementById("year").innerHTML = new Date().getFullYear();
+    },
 };
 </script>
 

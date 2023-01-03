@@ -41,20 +41,19 @@
               >
                 <div class="item">
                   <p>
-                    Nulla metus metus ullamcorper vel tincidunt sed euismod nibh
-                    volutpat velit class aptent taciti sociosqu ad litora.
+                    Mustafa is one of the most determined professionals I've met. He consistently finished his projects early and with high client satisfaction rates.
                   </p>
                   <div class="info">
                     <div class="img">
                       <div class="img-box">
-                        <img src="/img/clients/1.jpg" alt="" />
+                        <img src="/img/clients/1.png" alt="" />
                       </div>
                     </div>
                     <div class="cont">
                       <div class="author">
-                        <h6 class="author-name">Alex Regelman</h6>
+                        <h6 class="author-name">Sameh Bilal</h6>
                         <span class="author-details">
-                          Co-founder, Colabrio
+                          Senior Backend Developer, Arabhardware
                         </span>
                       </div>
                     </div>

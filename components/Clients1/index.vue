@@ -41,13 +41,13 @@
                     />
                     <img v-else :src="item.darkImage" alt="" />
 
-                    <NuxtLink
-                      to="#"
+                    <a
+                      href="#"
                       class="link words chars splitting"
                       data-splitting
                     >
                       {{ item.url }}
-                    </NuxtLink>
+                  </a>
                   </div>
                 </div>
               </div>
@@ -89,13 +89,13 @@
                       alt="client image"
                     />
                     <img v-else :src="item.darkImage" alt="client image" />
-                    <NuxtLink
-                      to="#"
+                    <a
+                      href="#"
                       class="link words chars splitting"
                       data-splitting
                     >
                       {{ item.url }}
-                    </NuxtLink>
+                  </a>
                   </div>
                 </div>
               </div>
@@ -137,13 +137,13 @@
                       alt="client image"
                     />
                     <img v-else :src="item.darkImage" alt="client image" />
-                    <NuxtLink
-                      to="#"
+                    <a
+                      href="#"
                       class="link words chars splitting"
                       data-splitting
                     >
                       {{ item.url }}
-                    </NuxtLink>
+                  </a>
                   </div>
                 </div>
               </div>

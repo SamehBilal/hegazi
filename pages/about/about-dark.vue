@@ -3,8 +3,8 @@
     <Navbar ref="navbar" />
     <PagesHeader imageLink="/img/slid/about.jpg">
       <template v-slot:title>
-        Our dedicated team of creatives is bursting with talent, experience and
-        passion for what we do.
+        I am always bursting with talent, experience and
+        passion for what i do.
       </template>
     </PagesHeader>
     <AboutIntro />

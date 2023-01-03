@@ -43,10 +43,10 @@
                   <div class="col-lg-4">
                     <div class="form-group">
                       <input
-                        id="form_name"
+                        id="form_subject"
                         type="text"
-                        name="name"
-                        placeholder="Name"
+                        name="subject"
+                        placeholder="Subject"
                         required="required"
                       />
                     </div>
@@ -64,9 +64,9 @@
                   </div>
                   <div class="col-12">
                     <div class="text-center">
-                      <NuxtLink to="#" class="butn bord curve mt-30">
+                      <a onclick="document.getElementById('contact-form').submit();" class="butn bord curve mt-30" id="submitContactForm" style="cursor:pointer">
                         <span>Send Massege</span>
-                      </NuxtLink>
+                      </a>
                     </div>
                   </div>
                 </div>

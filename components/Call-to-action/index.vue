@@ -17,7 +17,7 @@
 
         <div class="col-md-4 col-lg-3 valign">
           <NuxtLink
-            to="/contact/contact-dark"
+            to="/contact"
             class="butn bord curve wow fadeInUp"
             data-wow-delay=".5s"
           >

@@ -1,7 +1,4 @@
 {
-  "AboutUs1": {
-    "description": "Auto imported from components/About-us1/index.vue"
-  },
   "AboutIntro": {
     "description": "Auto imported from components/About-intro/index.vue"
   },
@@ -10,6 +7,9 @@
   },
   "AboutUs3": {
     "description": "Auto imported from components/About-us3/index.vue"
+  },
+  "AboutUs1": {
+    "description": "Auto imported from components/About-us1/index.vue"
   },
   "AboutUs4": {
     "description": "Auto imported from components/About-us4/index.vue"

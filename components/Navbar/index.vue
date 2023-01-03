@@ -83,7 +83,7 @@
           <li class="nav-item">
             <NuxtLink class="nav-link" to="/about"> About </NuxtLink>
           </li>
-          <li class="nav-item dropdown" @click="handleDropdown">
+          <!-- <li class="nav-item dropdown" @click="handleDropdown">
             <span
               class="nav-link dropdown-toggle"
               data-toggle="dropdown"
@@ -113,7 +113,7 @@
                 Live Streams
               </NuxtLink>
             </div>
-          </li>
+          </li> -->
 <!--          <li class="nav-item dropdown" @click="handleDropdown">
             <span
               class="nav-link dropdown-toggle"
@@ -148,9 +148,9 @@
             </NuxtLink>
           </li>
           <li class="nav-item">
-            <NuxtLink class="nav-link" to="cv">
-              Resume
-            </NuxtLink>
+            <a href="#" id="resumeButton" class="butn color " >
+              <span>Resume</span>
+            </a>
           </li>
         </ul>
       </div>
