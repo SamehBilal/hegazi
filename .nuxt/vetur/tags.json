@@ -2,14 +2,14 @@
   "AboutIntro": {
     "description": "Auto imported from components/About-intro/index.vue"
   },
+  "AboutUs1": {
+    "description": "Auto imported from components/About-us1/index.vue"
+  },
   "AboutUs2": {
     "description": "Auto imported from components/About-us2/index.vue"
   },
   "AboutUs3": {
     "description": "Auto imported from components/About-us3/index.vue"
-  },
-  "AboutUs1": {
-    "description": "Auto imported from components/About-us1/index.vue"
   },
   "AboutUs4": {
     "description": "Auto imported from components/About-us4/index.vue"
@@ -95,14 +95,14 @@
   "Intro3": {
     "description": "Auto imported from components/Intro3/index.vue"
   },
-  "Intro4": {
-    "description": "Auto imported from components/Intro4/index.vue"
-  },
   "Intro5": {
     "description": "Auto imported from components/Intro5/index.vue"
   },
   "LatestNews": {
     "description": "Auto imported from components/Latest-news/index.vue"
+  },
+  "Intro4": {
+    "description": "Auto imported from components/Intro4/index.vue"
   },
   "Loading": {
     "description": "Auto imported from components/Loading/index.vue"

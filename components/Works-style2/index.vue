@@ -47,7 +47,7 @@
                 : grid === 2
                 ? 'col-md-6'
                 : 'col-12'
-            } items graphic wow fadeInUp`"
+            } items Photography wow fadeInUp`"
             data-wow-delay=".4s"
           >
             <div class="item-img">
@@ -60,8 +60,8 @@
               </NuxtLink>
             </div>
             <div class="cont">
-              <h6>Creativity Demand</h6>
-              <span> <a href="#0">Design</a>, <a href="#0">WordPress</a> </span>
+              <h6>Logitech G Astro A30 Wireless Gaming Headset</h6>
+              <span> <a href="#0">Photography</a> </span>
             </div>
           </div>
 
@@ -72,7 +72,282 @@
                 : grid === 2
                 ? 'col-md-6'
                 : 'col-12'
-            } items web wow fadeInUp`"
+            } items Photography wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/1.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>Intel® Core™ i9-12900K Processor</h6>
+              <span> <a href="#0">Photography</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items Photography wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/1.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>Corsair DOMINATOR® PLATINUM RGB DDR5 </h6>
+              <span> <a href="#0">Photography</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items Photography wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/1.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>ASUS ROG Ryujin ii 360</h6>
+              <span> <a href="#0">Photography</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items Photography wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/1.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>ASUS ROG MAXIMUS Z690 HERO</h6>
+              <span> <a href="#0">Photography</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items Photography wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/1.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>ASUS ROG Strix G513QY</h6>
+              <span> <a href="#0">Photography</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items Photography wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/1.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>ASUS Zenbook 13</h6>
+              <span> <a href="#0">Photography</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items Photography wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/1.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>Bang & Olufsen - Beoplay EX</h6>
+              <span> <a href="#0">Photography</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items Photography wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/1.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>Corsair iCUE H170i Elite Capellix</h6>
+              <span> <a href="#0">Photography</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items Photography wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/1.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>MSI RX 6600 XT</h6>
+              <span> <a href="#0">Photography</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items Photography wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/1.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>Realme 5 Pro</h6>
+              <span> <a href="#0">Photography</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items Photography wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/1.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>UGREEN Power Delivery Fast Charger</h6>
+              <span> <a href="#0">Photography</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items Photography wow fadeInUp`"
             data-wow-delay=".4s"
           >
             <div class="item-img">
@@ -85,8 +360,8 @@
               </NuxtLink>
             </div>
             <div class="cont">
-              <h6>Through The Breaking</h6>
-              <span> <a href="#0">Design</a>, <a href="#0">WordPress</a> </span>
+              <h6>XPG Prospector 950 1TB SSD</h6>
+              <span> <a href="#0">Photography</a> </span>
             </div>
           </div>
 
@@ -97,7 +372,7 @@
                 : grid === 2
                 ? 'col-md-6'
                 : 'col-12'
-            } items brand wow fadeInUp`"
+            } items Photography wow fadeInUp`"
             data-wow-delay=".4s"
           >
             <div class="item-img">
@@ -110,8 +385,8 @@
               </NuxtLink>
             </div>
             <div class="cont">
-              <h6>Create With Creatives</h6>
-              <span> <a href="#0">Design</a>, <a href="#0">WordPress</a> </span>
+              <h6>XPG Gammix S70 Blade 2TB SSD</h6>
+              <span> <a href="#0">Photography</a> </span>
             </div>
           </div>
 
@@ -122,7 +397,7 @@
                 : grid === 2
                 ? 'col-md-6'
                 : 'col-12'
-            } items graphic wow fadeInUp`"
+            } items live wow fadeInUp`"
             data-wow-delay=".4s"
           >
             <div class="item-img">
@@ -135,8 +410,283 @@
               </NuxtLink>
             </div>
             <div class="cont">
-              <h6>Energies of Love</h6>
-              <span> <a href="#0">Design</a>, <a href="#0">WordPress</a> </span>
+              <h6>Insomnia Egypt 2019</h6>
+              <span> <a href="#0">Online  </a>/ <a href="#0">Offline Events</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items live wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/4.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>Arena of Valor - Arab World Qualifiers</h6>
+              <span> <a href="#0">Online  </a>/ <a href="#0">Offline Events</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items live wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/4.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>Arcane Premier in Egypt</h6>
+              <span> <a href="#0">Online  </a>/ <a href="#0">Offline Events</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items live wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/4.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>PUBG MOBILE - Champions Challenge Egypt</h6>
+              <span> <a href="#0">Online  </a>/ <a href="#0">Offline Events</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items live wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/4.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>Brawl Stars MENA Community Cup</h6>
+              <span> <a href="#0">Online  </a>/ <a href="#0">Offline Events</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items live wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/4.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>Call Of Duty Warzone - Middle East Challenge</h6>
+              <span> <a href="#0">Online  </a>/ <a href="#0">Offline Events</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items live wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/4.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>Lenovo Legion Gaming Activation</h6>
+              <span> <a href="#0">Online  </a>/ <a href="#0">Offline Events</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items live wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/4.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>OPPO Reno6 PUBG MOBILE GCC Cup</h6>
+              <span> <a href="#0">Online  </a>/ <a href="#0">Offline Events</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items live wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/4.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>Valorant Takeover in Egypt</h6>
+              <span> <a href="#0">Online  </a>/ <a href="#0">Offline Events</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items live wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/4.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>Kings Arena - MAF</h6>
+              <span> <a href="#0">Online  </a>/ <a href="#0">Offline Events</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items live wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/4.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>ACE 01: Valorant Egyptian Cup</h6>
+              <span> <a href="#0">Online  </a>/ <a href="#0">Offline Events</a> </span>
+            </div>
+          </div>
+
+          <div
+            :class="`${
+              grid === 3
+                ? 'col-lg-4 col-md-6'
+                : grid === 2
+                ? 'col-md-6'
+                : 'col-12'
+            } items live wow fadeInUp`"
+            data-wow-delay=".4s"
+          >
+            <div class="item-img">
+              <NuxtLink
+                class="imago wow"
+                to="/project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/portfolio/1/4.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+            </div>
+            <div class="cont">
+              <h6>Huawei APPS Up HMS APP Innovation Contest</h6>
+              <span> <a href="#0">Online  </a>/ <a href="#0">Offline Events</a> </span>
             </div>
           </div>
 

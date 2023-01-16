@@ -6,7 +6,7 @@
           <div class="form md-mb50">
             <h4 class="fw-700 color-font mb-50">Get In Touch.</h4>
 
-            <form id="contact-form" method="get">
+            <form id="contact-form" method="get" action="https://mostafaeltaweel.com/contact.php">
               <div class="messages"></div>
 
               <div class="controls">
@@ -50,7 +50,7 @@
                   ></textarea>
                 </div>
 
-                <button type="submit" :class="`butn ${theme === 'light' ? 'dark': 'bord'}`">
+                <button type="submit" :class="`butn ${theme === 'light' ? 'dark': 'bord  color'}`"  id="resumeButton" >
                   <span>Send Message</span>
                 </button>
               </div>

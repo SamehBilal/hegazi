@@ -7,9 +7,9 @@ You can directly use them in pages and other components without the need to impo
 **Tip:** If a component is conditionally rendered with `v-if` and is big, it is better to use `Lazy` or `lazy-` prefix to lazy load.
 
 - `<AboutIntro>` | `<about-intro>` (components/About-intro/index.vue)
+- `<AboutUs1>` | `<about-us1>` (components/About-us1/index.vue)
 - `<AboutUs2>` | `<about-us2>` (components/About-us2/index.vue)
 - `<AboutUs3>` | `<about-us3>` (components/About-us3/index.vue)
-- `<AboutUs1>` | `<about-us1>` (components/About-us1/index.vue)
 - `<AboutUs4>` | `<about-us4>` (components/About-us4/index.vue)
 - `<AboutUs5>` | `<about-us5>` (components/About-us5/index.vue)
 - `<AboutUs6>` | `<about-us6>` (components/About-us6/index.vue)
@@ -38,9 +38,9 @@ You can directly use them in pages and other components without the need to impo
 - `<IntroWithSlider>` | `<intro-with-slider>` (components/Intro-with-slider/index.vue)
 - `<Intro2>` | `<intro2>` (components/Intro2/index.vue)
 - `<Intro3>` | `<intro3>` (components/Intro3/index.vue)
-- `<Intro4>` | `<intro4>` (components/Intro4/index.vue)
 - `<Intro5>` | `<intro5>` (components/Intro5/index.vue)
 - `<LatestNews>` | `<latest-news>` (components/Latest-news/index.vue)
+- `<Intro4>` | `<intro4>` (components/Intro4/index.vue)
 - `<Loading>` | `<loading>` (components/Loading/index.vue)
 - `<MinimalArea1>` | `<minimal-area1>` (components/Minimal-area1/index.vue)
 - `<MinimalArea2>` | `<minimal-area2>` (components/Minimal-area2/index.vue)

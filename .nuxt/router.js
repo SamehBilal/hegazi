@@ -4,49 +4,49 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _606da6dc = () => interopDefault(import('..\\pages\\about\\about-dark.vue' /* webpackChunkName: "pages/about/about-dark" */))
-const _798030ac = () => interopDefault(import('..\\pages\\about\\about-light.vue' /* webpackChunkName: "pages/about/about-light" */))
-const _443782f8 = () => interopDefault(import('..\\pages\\blog-details\\blog-details-dark.vue' /* webpackChunkName: "pages/blog-details/blog-details-dark" */))
-const _788713f8 = () => interopDefault(import('..\\pages\\blog-details\\blog-details-light.vue' /* webpackChunkName: "pages/blog-details/blog-details-light" */))
-const _72969cdc = () => interopDefault(import('..\\pages\\blog-grid\\blog-grid-dark.vue' /* webpackChunkName: "pages/blog-grid/blog-grid-dark" */))
-const _ac75faac = () => interopDefault(import('..\\pages\\blog-grid\\blog-grid-light.vue' /* webpackChunkName: "pages/blog-grid/blog-grid-light" */))
-const _cac5cedc = () => interopDefault(import('..\\pages\\blog-list\\blog-list-dark.vue' /* webpackChunkName: "pages/blog-list/blog-list-dark" */))
-const _52e97baa = () => interopDefault(import('..\\pages\\blog-list\\blog-list-light.vue' /* webpackChunkName: "pages/blog-list/blog-list-light" */))
-const _c8909d24 = () => interopDefault(import('..\\pages\\blog\\blog-dark.vue' /* webpackChunkName: "pages/blog/blog-dark" */))
-const _7521fe4e = () => interopDefault(import('..\\pages\\blog\\blog-light.vue' /* webpackChunkName: "pages/blog/blog-light" */))
-const _07cf7f1c = () => interopDefault(import('..\\pages\\contact\\contact-dark.vue' /* webpackChunkName: "pages/contact/contact-dark" */))
-const _20d34fca = () => interopDefault(import('..\\pages\\contact\\contact-light.vue' /* webpackChunkName: "pages/contact/contact-light" */))
-const _f9544dc0 = () => interopDefault(import('..\\pages\\homepage\\home1-dark.vue' /* webpackChunkName: "pages/homepage/home1-dark" */))
-const _fd6e6648 = () => interopDefault(import('..\\pages\\homepage\\home1-light.vue' /* webpackChunkName: "pages/homepage/home1-light" */))
-const _779f4a3f = () => interopDefault(import('..\\pages\\homepage\\home2-dark.vue' /* webpackChunkName: "pages/homepage/home2-dark" */))
-const _162d7f9d = () => interopDefault(import('..\\pages\\homepage\\home2-light.vue' /* webpackChunkName: "pages/homepage/home2-light" */))
-const _6be8bb5e = () => interopDefault(import('..\\pages\\homepage\\home3-dark.vue' /* webpackChunkName: "pages/homepage/home3-dark" */))
-const _a9db9b44 = () => interopDefault(import('..\\pages\\homepage\\home3-light.vue' /* webpackChunkName: "pages/homepage/home3-light" */))
-const _60322c7d = () => interopDefault(import('..\\pages\\homepage\\home4-dark.vue' /* webpackChunkName: "pages/homepage/home4-dark" */))
-const _3ff6e51f = () => interopDefault(import('..\\pages\\homepage\\home4-light.vue' /* webpackChunkName: "pages/homepage/home4-light" */))
-const _547b9d9c = () => interopDefault(import('..\\pages\\homepage\\home5-dark.vue' /* webpackChunkName: "pages/homepage/home5-dark" */))
-const _5648d040 = () => interopDefault(import('..\\pages\\homepage\\home5-light.vue' /* webpackChunkName: "pages/homepage/home5-light" */))
-const _48c50ebb = () => interopDefault(import('..\\pages\\homepage\\home6-dark.vue' /* webpackChunkName: "pages/homepage/home6-dark" */))
-const _69c04aa1 = () => interopDefault(import('..\\pages\\homepage\\home6-light.vue' /* webpackChunkName: "pages/homepage/home6-light" */))
-const _3d0e7fda = () => interopDefault(import('..\\pages\\homepage\\home7-dark.vue' /* webpackChunkName: "pages/homepage/home7-dark" */))
-const _02b6053c = () => interopDefault(import('..\\pages\\homepage\\home7-light.vue' /* webpackChunkName: "pages/homepage/home7-light" */))
-const _3157f0f9 = () => interopDefault(import('..\\pages\\homepage\\home8-dark.vue' /* webpackChunkName: "pages/homepage/home8-dark" */))
-const _d8ec9fba = () => interopDefault(import('..\\pages\\homepage\\home8-light.vue' /* webpackChunkName: "pages/homepage/home8-light" */))
-const _2f13baea = () => interopDefault(import('..\\pages\\project-details2\\project-details2-dark.vue' /* webpackChunkName: "pages/project-details2/project-details2-dark" */))
-const _4d472452 = () => interopDefault(import('..\\pages\\project-details2\\project-details2-light.vue' /* webpackChunkName: "pages/project-details2/project-details2-light" */))
-const _32e0c450 = () => interopDefault(import('..\\pages\\showcase\\showcase-dark.vue' /* webpackChunkName: "pages/showcase/showcase-dark" */))
-const _f570c1b8 = () => interopDefault(import('..\\pages\\showcase\\showcase-light.vue' /* webpackChunkName: "pages/showcase/showcase-light" */))
-const _07f1e612 = () => interopDefault(import('..\\pages\\showcase2\\showcase2-dark.vue' /* webpackChunkName: "pages/showcase2/showcase2-dark" */))
-const _dfa343ac = () => interopDefault(import('..\\pages\\showcase2\\showcase2-light.vue' /* webpackChunkName: "pages/showcase2/showcase2-light" */))
-const _08d44cb2 = () => interopDefault(import('..\\pages\\showcase3\\showcase3-dark.vue' /* webpackChunkName: "pages/showcase3/showcase3-dark" */))
-const _a8ce68ec = () => interopDefault(import('..\\pages\\showcase3\\showcase3-light.vue' /* webpackChunkName: "pages/showcase3/showcase3-light" */))
-const _2b48739c = () => interopDefault(import('..\\pages\\works\\works-dark.vue' /* webpackChunkName: "pages/works/works-dark" */))
-const _09fefbec = () => interopDefault(import('..\\pages\\works\\works-light.vue' /* webpackChunkName: "pages/works/works-light" */))
-const _8074fd5c = () => interopDefault(import('..\\pages\\works2\\works2-dark.vue' /* webpackChunkName: "pages/works2/works2-dark" */))
-const _5a63aa2c = () => interopDefault(import('..\\pages\\works2\\works2-light.vue' /* webpackChunkName: "pages/works2/works2-light" */))
-const _78a0d490 = () => interopDefault(import('..\\pages\\works3\\works3-dark.vue' /* webpackChunkName: "pages/works3/works3-dark" */))
-const _355d3f6c = () => interopDefault(import('..\\pages\\works3\\works3-light.vue' /* webpackChunkName: "pages/works3/works3-light" */))
-const _06d84f21 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _7bdcb02d = () => interopDefault(import('..\\pages\\about\\about-dark.vue' /* webpackChunkName: "pages/about/about-dark" */))
+const _ccc65122 = () => interopDefault(import('..\\pages\\about\\about-light.vue' /* webpackChunkName: "pages/about/about-light" */))
+const _1befd6df = () => interopDefault(import('..\\pages\\blog-details\\blog-details-dark.vue' /* webpackChunkName: "pages/blog-details/blog-details-dark" */))
+const _0822f206 = () => interopDefault(import('..\\pages\\blog-details\\blog-details-light.vue' /* webpackChunkName: "pages/blog-details/blog-details-light" */))
+const _7a046a2d = () => interopDefault(import('..\\pages\\blog-grid\\blog-grid-dark.vue' /* webpackChunkName: "pages/blog-grid/blog-grid-dark" */))
+const _606c5d6f = () => interopDefault(import('..\\pages\\blog-grid\\blog-grid-light.vue' /* webpackChunkName: "pages/blog-grid/blog-grid-light" */))
+const _4decd12d = () => interopDefault(import('..\\pages\\blog-list\\blog-list-dark.vue' /* webpackChunkName: "pages/blog-list/blog-list-dark" */))
+const _0990d66f = () => interopDefault(import('..\\pages\\blog-list\\blog-list-light.vue' /* webpackChunkName: "pages/blog-list/blog-list-light" */))
+const _3b05406e = () => interopDefault(import('..\\pages\\blog\\blog-dark.vue' /* webpackChunkName: "pages/blog/blog-dark" */))
+const _07121b53 = () => interopDefault(import('..\\pages\\blog\\blog-light.vue' /* webpackChunkName: "pages/blog/blog-light" */))
+const _b58b02e6 = () => interopDefault(import('..\\pages\\contact\\contact-dark.vue' /* webpackChunkName: "pages/contact/contact-dark" */))
+const _c80e55e2 = () => interopDefault(import('..\\pages\\contact\\contact-light.vue' /* webpackChunkName: "pages/contact/contact-light" */))
+const _3635eba5 = () => interopDefault(import('..\\pages\\homepage\\home1-dark.vue' /* webpackChunkName: "pages/homepage/home1-dark" */))
+const _2a6b0af7 = () => interopDefault(import('..\\pages\\homepage\\home1-light.vue' /* webpackChunkName: "pages/homepage/home1-light" */))
+const _2a7f5cc4 = () => interopDefault(import('..\\pages\\homepage\\home2-dark.vue' /* webpackChunkName: "pages/homepage/home2-dark" */))
+const _81608490 = () => interopDefault(import('..\\pages\\homepage\\home2-light.vue' /* webpackChunkName: "pages/homepage/home2-light" */))
+const _1ec8cde3 = () => interopDefault(import('..\\pages\\homepage\\home3-dark.vue' /* webpackChunkName: "pages/homepage/home3-dark" */))
+const _54347079 = () => interopDefault(import('..\\pages\\homepage\\home3-light.vue' /* webpackChunkName: "pages/homepage/home3-light" */))
+const _13123f02 = () => interopDefault(import('..\\pages\\homepage\\home4-dark.vue' /* webpackChunkName: "pages/homepage/home4-dark" */))
+const _2dcdb98c = () => interopDefault(import('..\\pages\\homepage\\home4-light.vue' /* webpackChunkName: "pages/homepage/home4-light" */))
+const _075bb021 = () => interopDefault(import('..\\pages\\homepage\\home5-dark.vue' /* webpackChunkName: "pages/homepage/home5-dark" */))
+const _7dfdd5fb = () => interopDefault(import('..\\pages\\homepage\\home5-light.vue' /* webpackChunkName: "pages/homepage/home5-light" */))
+const _08b5bd80 = () => interopDefault(import('..\\pages\\homepage\\home6-dark.vue' /* webpackChunkName: "pages/homepage/home6-dark" */))
+const _12e288bc = () => interopDefault(import('..\\pages\\homepage\\home6-light.vue' /* webpackChunkName: "pages/homepage/home6-light" */))
+const _2022db42 = () => interopDefault(import('..\\pages\\homepage\\home7-dark.vue' /* webpackChunkName: "pages/homepage/home7-dark" */))
+const _b0718906 = () => interopDefault(import('..\\pages\\homepage\\home7-light.vue' /* webpackChunkName: "pages/homepage/home7-light" */))
+const _378ff904 = () => interopDefault(import('..\\pages\\homepage\\home8-dark.vue' /* webpackChunkName: "pages/homepage/home8-dark" */))
+const _3cabee3e = () => interopDefault(import('..\\pages\\homepage\\home8-light.vue' /* webpackChunkName: "pages/homepage/home8-light" */))
+const _ef4a6f76 = () => interopDefault(import('..\\pages\\project-details2\\project-details2-dark.vue' /* webpackChunkName: "pages/project-details2/project-details2-dark" */))
+const _1ce1c257 = () => interopDefault(import('..\\pages\\project-details2\\project-details2-light.vue' /* webpackChunkName: "pages/project-details2/project-details2-light" */))
+const _5fca7d9a = () => interopDefault(import('..\\pages\\showcase\\showcase-dark.vue' /* webpackChunkName: "pages/showcase/showcase-dark" */))
+const _65be31ae = () => interopDefault(import('..\\pages\\showcase\\showcase-light.vue' /* webpackChunkName: "pages/showcase/showcase-light" */))
+const _897cc2a6 = () => interopDefault(import('..\\pages\\showcase2\\showcase2-dark.vue' /* webpackChunkName: "pages/showcase2/showcase2-dark" */))
+const _46d5b8ef = () => interopDefault(import('..\\pages\\showcase2\\showcase2-light.vue' /* webpackChunkName: "pages/showcase2/showcase2-light" */))
+const _87b7f566 = () => interopDefault(import('..\\pages\\showcase3\\showcase3-dark.vue' /* webpackChunkName: "pages/showcase3/showcase3-dark" */))
+const _6240264f = () => interopDefault(import('..\\pages\\showcase3\\showcase3-light.vue' /* webpackChunkName: "pages/showcase3/showcase3-light" */))
+const _d3216c66 = () => interopDefault(import('..\\pages\\works\\works-dark.vue' /* webpackChunkName: "pages/works/works-dark" */))
+const _5d451c62 = () => interopDefault(import('..\\pages\\works\\works-light.vue' /* webpackChunkName: "pages/works/works-light" */))
+const _95f2eba6 = () => interopDefault(import('..\\pages\\works2\\works2-dark.vue' /* webpackChunkName: "pages/works2/works2-dark" */))
+const _f4a38522 = () => interopDefault(import('..\\pages\\works2\\works2-light.vue' /* webpackChunkName: "pages/works2/works2-light" */))
+const _6de1dd6b = () => interopDefault(import('..\\pages\\works3\\works3-dark.vue' /* webpackChunkName: "pages/works3/works3-dark" */))
+const _2f855c1e = () => interopDefault(import('..\\pages\\works3\\works3-light.vue' /* webpackChunkName: "pages/works3/works3-light" */))
+const _2038233c = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -61,175 +61,175 @@ export const routerOptions = {
 
   routes: [{
     path: "/about/about-dark",
-    component: _606da6dc,
+    component: _7bdcb02d,
     name: "about-about-dark"
   }, {
     path: "/about/about-light",
-    component: _798030ac,
+    component: _ccc65122,
     name: "about-about-light"
   }, {
     path: "/blog-details/blog-details-dark",
-    component: _443782f8,
+    component: _1befd6df,
     name: "blog-details-blog-details-dark"
   }, {
     path: "/blog-details/blog-details-light",
-    component: _788713f8,
+    component: _0822f206,
     name: "blog-details-blog-details-light"
   }, {
     path: "/blog-grid/blog-grid-dark",
-    component: _72969cdc,
+    component: _7a046a2d,
     name: "blog-grid-blog-grid-dark"
   }, {
     path: "/blog-grid/blog-grid-light",
-    component: _ac75faac,
+    component: _606c5d6f,
     name: "blog-grid-blog-grid-light"
   }, {
     path: "/blog-list/blog-list-dark",
-    component: _cac5cedc,
+    component: _4decd12d,
     name: "blog-list-blog-list-dark"
   }, {
     path: "/blog-list/blog-list-light",
-    component: _52e97baa,
+    component: _0990d66f,
     name: "blog-list-blog-list-light"
   }, {
     path: "/blog/blog-dark",
-    component: _c8909d24,
+    component: _3b05406e,
     name: "blog-blog-dark"
   }, {
     path: "/blog/blog-light",
-    component: _7521fe4e,
+    component: _07121b53,
     name: "blog-blog-light"
   }, {
     path: "/contact/contact-dark",
-    component: _07cf7f1c,
+    component: _b58b02e6,
     name: "contact-contact-dark"
   }, {
     path: "/contact/contact-light",
-    component: _20d34fca,
+    component: _c80e55e2,
     name: "contact-contact-light"
   }, {
     path: "/homepage/home1-dark",
-    component: _f9544dc0,
+    component: _3635eba5,
     name: "homepage-home1-dark"
   }, {
     path: "/homepage/home1-light",
-    component: _fd6e6648,
+    component: _2a6b0af7,
     name: "homepage-home1-light"
   }, {
     path: "/homepage/home2-dark",
-    component: _779f4a3f,
+    component: _2a7f5cc4,
     name: "homepage-home2-dark"
   }, {
     path: "/homepage/home2-light",
-    component: _162d7f9d,
+    component: _81608490,
     name: "homepage-home2-light"
   }, {
     path: "/homepage/home3-dark",
-    component: _6be8bb5e,
+    component: _1ec8cde3,
     name: "homepage-home3-dark"
   }, {
     path: "/homepage/home3-light",
-    component: _a9db9b44,
+    component: _54347079,
     name: "homepage-home3-light"
   }, {
     path: "/homepage/home4-dark",
-    component: _60322c7d,
+    component: _13123f02,
     name: "homepage-home4-dark"
   }, {
     path: "/homepage/home4-light",
-    component: _3ff6e51f,
+    component: _2dcdb98c,
     name: "homepage-home4-light"
   }, {
     path: "/homepage/home5-dark",
-    component: _547b9d9c,
+    component: _075bb021,
     name: "homepage-home5-dark"
   }, {
     path: "/homepage/home5-light",
-    component: _5648d040,
+    component: _7dfdd5fb,
     name: "homepage-home5-light"
   }, {
     path: "/homepage/home6-dark",
-    component: _48c50ebb,
+    component: _08b5bd80,
     name: "homepage-home6-dark"
   }, {
     path: "/homepage/home6-light",
-    component: _69c04aa1,
+    component: _12e288bc,
     name: "homepage-home6-light"
   }, {
     path: "/homepage/home7-dark",
-    component: _3d0e7fda,
+    component: _2022db42,
     name: "homepage-home7-dark"
   }, {
     path: "/homepage/home7-light",
-    component: _02b6053c,
+    component: _b0718906,
     name: "homepage-home7-light"
   }, {
     path: "/homepage/home8-dark",
-    component: _3157f0f9,
+    component: _378ff904,
     name: "homepage-home8-dark"
   }, {
     path: "/homepage/home8-light",
-    component: _d8ec9fba,
+    component: _3cabee3e,
     name: "homepage-home8-light"
   }, {
     path: "/project-details2/project-details2-dark",
-    component: _2f13baea,
+    component: _ef4a6f76,
     name: "project-details2-project-details2-dark"
   }, {
     path: "/project-details2/project-details2-light",
-    component: _4d472452,
+    component: _1ce1c257,
     name: "project-details2-project-details2-light"
   }, {
     path: "/showcase/showcase-dark",
-    component: _32e0c450,
+    component: _5fca7d9a,
     name: "showcase-showcase-dark"
   }, {
     path: "/showcase/showcase-light",
-    component: _f570c1b8,
+    component: _65be31ae,
     name: "showcase-showcase-light"
   }, {
     path: "/showcase2/showcase2-dark",
-    component: _07f1e612,
+    component: _897cc2a6,
     name: "showcase2-showcase2-dark"
   }, {
     path: "/showcase2/showcase2-light",
-    component: _dfa343ac,
+    component: _46d5b8ef,
     name: "showcase2-showcase2-light"
   }, {
     path: "/showcase3/showcase3-dark",
-    component: _08d44cb2,
+    component: _87b7f566,
     name: "showcase3-showcase3-dark"
   }, {
     path: "/showcase3/showcase3-light",
-    component: _a8ce68ec,
+    component: _6240264f,
     name: "showcase3-showcase3-light"
   }, {
     path: "/works/works-dark",
-    component: _2b48739c,
+    component: _d3216c66,
     name: "works-works-dark"
   }, {
     path: "/works/works-light",
-    component: _09fefbec,
+    component: _5d451c62,
     name: "works-works-light"
   }, {
     path: "/works2/works2-dark",
-    component: _8074fd5c,
+    component: _95f2eba6,
     name: "works2-works2-dark"
   }, {
     path: "/works2/works2-light",
-    component: _5a63aa2c,
+    component: _f4a38522,
     name: "works2-works2-light"
   }, {
     path: "/works3/works3-dark",
-    component: _78a0d490,
+    component: _6de1dd6b,
     name: "works3-works3-dark"
   }, {
     path: "/works3/works3-light",
-    component: _355d3f6c,
+    component: _2f855c1e,
     name: "works3-works3-light"
   }, {
     path: "/",
-    component: _06d84f21,
+    component: _2038233c,
     name: "index"
   }],
 

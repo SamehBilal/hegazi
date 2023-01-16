@@ -2,302 +2,259 @@
   {
     "name": "about-about-dark",
     "path": "/about/about-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\about\\\\about-dark.vue",
-    "chunkName": "pages/about/about-dark",
-    "_name": "_606da6dc"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\about\\\\about-dark.vue",
+    "chunkName": "pages/about/about-dark"
   },
   {
     "name": "about-about-light",
     "path": "/about/about-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\about\\\\about-light.vue",
-    "chunkName": "pages/about/about-light",
-    "_name": "_798030ac"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\about\\\\about-light.vue",
+    "chunkName": "pages/about/about-light"
   },
   {
     "name": "blog-details-blog-details-dark",
     "path": "/blog-details/blog-details-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\blog-details\\\\blog-details-dark.vue",
-    "chunkName": "pages/blog-details/blog-details-dark",
-    "_name": "_443782f8"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\blog-details\\\\blog-details-dark.vue",
+    "chunkName": "pages/blog-details/blog-details-dark"
   },
   {
     "name": "blog-details-blog-details-light",
     "path": "/blog-details/blog-details-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\blog-details\\\\blog-details-light.vue",
-    "chunkName": "pages/blog-details/blog-details-light",
-    "_name": "_788713f8"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\blog-details\\\\blog-details-light.vue",
+    "chunkName": "pages/blog-details/blog-details-light"
   },
   {
     "name": "blog-grid-blog-grid-dark",
     "path": "/blog-grid/blog-grid-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\blog-grid\\\\blog-grid-dark.vue",
-    "chunkName": "pages/blog-grid/blog-grid-dark",
-    "_name": "_72969cdc"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\blog-grid\\\\blog-grid-dark.vue",
+    "chunkName": "pages/blog-grid/blog-grid-dark"
   },
   {
     "name": "blog-grid-blog-grid-light",
     "path": "/blog-grid/blog-grid-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\blog-grid\\\\blog-grid-light.vue",
-    "chunkName": "pages/blog-grid/blog-grid-light",
-    "_name": "_ac75faac"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\blog-grid\\\\blog-grid-light.vue",
+    "chunkName": "pages/blog-grid/blog-grid-light"
   },
   {
     "name": "blog-list-blog-list-dark",
     "path": "/blog-list/blog-list-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\blog-list\\\\blog-list-dark.vue",
-    "chunkName": "pages/blog-list/blog-list-dark",
-    "_name": "_cac5cedc"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\blog-list\\\\blog-list-dark.vue",
+    "chunkName": "pages/blog-list/blog-list-dark"
   },
   {
     "name": "blog-list-blog-list-light",
     "path": "/blog-list/blog-list-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\blog-list\\\\blog-list-light.vue",
-    "chunkName": "pages/blog-list/blog-list-light",
-    "_name": "_52e97baa"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\blog-list\\\\blog-list-light.vue",
+    "chunkName": "pages/blog-list/blog-list-light"
   },
   {
     "name": "blog-blog-dark",
     "path": "/blog/blog-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\blog\\\\blog-dark.vue",
-    "chunkName": "pages/blog/blog-dark",
-    "_name": "_c8909d24"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\blog\\\\blog-dark.vue",
+    "chunkName": "pages/blog/blog-dark"
   },
   {
     "name": "blog-blog-light",
     "path": "/blog/blog-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\blog\\\\blog-light.vue",
-    "chunkName": "pages/blog/blog-light",
-    "_name": "_7521fe4e"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\blog\\\\blog-light.vue",
+    "chunkName": "pages/blog/blog-light"
   },
   {
     "name": "contact-contact-dark",
     "path": "/contact/contact-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\contact\\\\contact-dark.vue",
-    "chunkName": "pages/contact/contact-dark",
-    "_name": "_07cf7f1c"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\contact\\\\contact-dark.vue",
+    "chunkName": "pages/contact/contact-dark"
   },
   {
     "name": "contact-contact-light",
     "path": "/contact/contact-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\contact\\\\contact-light.vue",
-    "chunkName": "pages/contact/contact-light",
-    "_name": "_20d34fca"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\contact\\\\contact-light.vue",
+    "chunkName": "pages/contact/contact-light"
   },
   {
     "name": "homepage-home1-dark",
     "path": "/homepage/home1-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home1-dark.vue",
-    "chunkName": "pages/homepage/home1-dark",
-    "_name": "_f9544dc0"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home1-dark.vue",
+    "chunkName": "pages/homepage/home1-dark"
   },
   {
     "name": "homepage-home1-light",
     "path": "/homepage/home1-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home1-light.vue",
-    "chunkName": "pages/homepage/home1-light",
-    "_name": "_fd6e6648"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home1-light.vue",
+    "chunkName": "pages/homepage/home1-light"
   },
   {
     "name": "homepage-home2-dark",
     "path": "/homepage/home2-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home2-dark.vue",
-    "chunkName": "pages/homepage/home2-dark",
-    "_name": "_779f4a3f"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home2-dark.vue",
+    "chunkName": "pages/homepage/home2-dark"
   },
   {
     "name": "homepage-home2-light",
     "path": "/homepage/home2-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home2-light.vue",
-    "chunkName": "pages/homepage/home2-light",
-    "_name": "_162d7f9d"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home2-light.vue",
+    "chunkName": "pages/homepage/home2-light"
   },
   {
     "name": "homepage-home3-dark",
     "path": "/homepage/home3-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home3-dark.vue",
-    "chunkName": "pages/homepage/home3-dark",
-    "_name": "_6be8bb5e"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home3-dark.vue",
+    "chunkName": "pages/homepage/home3-dark"
   },
   {
     "name": "homepage-home3-light",
     "path": "/homepage/home3-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home3-light.vue",
-    "chunkName": "pages/homepage/home3-light",
-    "_name": "_a9db9b44"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home3-light.vue",
+    "chunkName": "pages/homepage/home3-light"
   },
   {
     "name": "homepage-home4-dark",
     "path": "/homepage/home4-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home4-dark.vue",
-    "chunkName": "pages/homepage/home4-dark",
-    "_name": "_60322c7d"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home4-dark.vue",
+    "chunkName": "pages/homepage/home4-dark"
   },
   {
     "name": "homepage-home4-light",
     "path": "/homepage/home4-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home4-light.vue",
-    "chunkName": "pages/homepage/home4-light",
-    "_name": "_3ff6e51f"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home4-light.vue",
+    "chunkName": "pages/homepage/home4-light"
   },
   {
     "name": "homepage-home5-dark",
     "path": "/homepage/home5-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home5-dark.vue",
-    "chunkName": "pages/homepage/home5-dark",
-    "_name": "_547b9d9c"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home5-dark.vue",
+    "chunkName": "pages/homepage/home5-dark"
   },
   {
     "name": "homepage-home5-light",
     "path": "/homepage/home5-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home5-light.vue",
-    "chunkName": "pages/homepage/home5-light",
-    "_name": "_5648d040"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home5-light.vue",
+    "chunkName": "pages/homepage/home5-light"
   },
   {
     "name": "homepage-home6-dark",
     "path": "/homepage/home6-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home6-dark.vue",
-    "chunkName": "pages/homepage/home6-dark",
-    "_name": "_48c50ebb"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home6-dark.vue",
+    "chunkName": "pages/homepage/home6-dark"
   },
   {
     "name": "homepage-home6-light",
     "path": "/homepage/home6-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home6-light.vue",
-    "chunkName": "pages/homepage/home6-light",
-    "_name": "_69c04aa1"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home6-light.vue",
+    "chunkName": "pages/homepage/home6-light"
   },
   {
     "name": "homepage-home7-dark",
     "path": "/homepage/home7-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home7-dark.vue",
-    "chunkName": "pages/homepage/home7-dark",
-    "_name": "_3d0e7fda"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home7-dark.vue",
+    "chunkName": "pages/homepage/home7-dark"
   },
   {
     "name": "homepage-home7-light",
     "path": "/homepage/home7-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home7-light.vue",
-    "chunkName": "pages/homepage/home7-light",
-    "_name": "_02b6053c"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home7-light.vue",
+    "chunkName": "pages/homepage/home7-light"
   },
   {
     "name": "homepage-home8-dark",
     "path": "/homepage/home8-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home8-dark.vue",
-    "chunkName": "pages/homepage/home8-dark",
-    "_name": "_3157f0f9"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home8-dark.vue",
+    "chunkName": "pages/homepage/home8-dark"
   },
   {
     "name": "homepage-home8-light",
     "path": "/homepage/home8-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home8-light.vue",
-    "chunkName": "pages/homepage/home8-light",
-    "_name": "_d8ec9fba"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\homepage\\\\home8-light.vue",
+    "chunkName": "pages/homepage/home8-light"
   },
   {
     "name": "project-details2-project-details2-dark",
     "path": "/project-details2/project-details2-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\project-details2\\\\project-details2-dark.vue",
-    "chunkName": "pages/project-details2/project-details2-dark",
-    "_name": "_2f13baea"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\project-details2\\\\project-details2-dark.vue",
+    "chunkName": "pages/project-details2/project-details2-dark"
   },
   {
     "name": "project-details2-project-details2-light",
     "path": "/project-details2/project-details2-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\project-details2\\\\project-details2-light.vue",
-    "chunkName": "pages/project-details2/project-details2-light",
-    "_name": "_4d472452"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\project-details2\\\\project-details2-light.vue",
+    "chunkName": "pages/project-details2/project-details2-light"
   },
   {
     "name": "showcase-showcase-dark",
     "path": "/showcase/showcase-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\showcase\\\\showcase-dark.vue",
-    "chunkName": "pages/showcase/showcase-dark",
-    "_name": "_32e0c450"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\showcase\\\\showcase-dark.vue",
+    "chunkName": "pages/showcase/showcase-dark"
   },
   {
     "name": "showcase-showcase-light",
     "path": "/showcase/showcase-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\showcase\\\\showcase-light.vue",
-    "chunkName": "pages/showcase/showcase-light",
-    "_name": "_f570c1b8"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\showcase\\\\showcase-light.vue",
+    "chunkName": "pages/showcase/showcase-light"
   },
   {
     "name": "showcase2-showcase2-dark",
     "path": "/showcase2/showcase2-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\showcase2\\\\showcase2-dark.vue",
-    "chunkName": "pages/showcase2/showcase2-dark",
-    "_name": "_07f1e612"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\showcase2\\\\showcase2-dark.vue",
+    "chunkName": "pages/showcase2/showcase2-dark"
   },
   {
     "name": "showcase2-showcase2-light",
     "path": "/showcase2/showcase2-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\showcase2\\\\showcase2-light.vue",
-    "chunkName": "pages/showcase2/showcase2-light",
-    "_name": "_dfa343ac"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\showcase2\\\\showcase2-light.vue",
+    "chunkName": "pages/showcase2/showcase2-light"
   },
   {
     "name": "showcase3-showcase3-dark",
     "path": "/showcase3/showcase3-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\showcase3\\\\showcase3-dark.vue",
-    "chunkName": "pages/showcase3/showcase3-dark",
-    "_name": "_08d44cb2"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\showcase3\\\\showcase3-dark.vue",
+    "chunkName": "pages/showcase3/showcase3-dark"
   },
   {
     "name": "showcase3-showcase3-light",
     "path": "/showcase3/showcase3-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\showcase3\\\\showcase3-light.vue",
-    "chunkName": "pages/showcase3/showcase3-light",
-    "_name": "_a8ce68ec"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\showcase3\\\\showcase3-light.vue",
+    "chunkName": "pages/showcase3/showcase3-light"
   },
   {
     "name": "works-works-dark",
     "path": "/works/works-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\works\\\\works-dark.vue",
-    "chunkName": "pages/works/works-dark",
-    "_name": "_2b48739c"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\works\\\\works-dark.vue",
+    "chunkName": "pages/works/works-dark"
   },
   {
     "name": "works-works-light",
     "path": "/works/works-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\works\\\\works-light.vue",
-    "chunkName": "pages/works/works-light",
-    "_name": "_09fefbec"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\works\\\\works-light.vue",
+    "chunkName": "pages/works/works-light"
   },
   {
     "name": "works2-works2-dark",
     "path": "/works2/works2-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\works2\\\\works2-dark.vue",
-    "chunkName": "pages/works2/works2-dark",
-    "_name": "_8074fd5c"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\works2\\\\works2-dark.vue",
+    "chunkName": "pages/works2/works2-dark"
   },
   {
     "name": "works2-works2-light",
     "path": "/works2/works2-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\works2\\\\works2-light.vue",
-    "chunkName": "pages/works2/works2-light",
-    "_name": "_5a63aa2c"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\works2\\\\works2-light.vue",
+    "chunkName": "pages/works2/works2-light"
   },
   {
     "name": "works3-works3-dark",
     "path": "/works3/works3-dark",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\works3\\\\works3-dark.vue",
-    "chunkName": "pages/works3/works3-dark",
-    "_name": "_78a0d490"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\works3\\\\works3-dark.vue",
+    "chunkName": "pages/works3/works3-dark"
   },
   {
     "name": "works3-works3-light",
     "path": "/works3/works3-light",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\works3\\\\works3-light.vue",
-    "chunkName": "pages/works3/works3-light",
-    "_name": "_355d3f6c"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\works3\\\\works3-light.vue",
+    "chunkName": "pages/works3/works3-light"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\PC 8\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_06d84f21"
+    "component": "C:\\\\Users\\\\sameh\\\\OneDrive\\\\Documents\\\\GitHub\\\\hegazi\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   }
 ]

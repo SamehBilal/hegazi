@@ -81,9 +81,9 @@
             </div>
           </li>-->
           <li class="nav-item">
-            <NuxtLink class="nav-link" to="/about"> About </NuxtLink>
+            <NuxtLink class="nav-link" to="/about/about-dark"> About </NuxtLink>
           </li>
-          <!-- <li class="nav-item dropdown" @click="handleDropdown">
+           <li class="nav-item dropdown" @click="handleDropdown">
             <span
               class="nav-link dropdown-toggle"
               data-toggle="dropdown"
@@ -94,7 +94,7 @@
               Works
             </span>
             <div class="dropdown-menu">
-              <NuxtLink class="dropdown-item" to="works/all">
+              <NuxtLink class="dropdown-item" to="works2/works2-dark">
                 All
               </NuxtLink>
               <NuxtLink class="dropdown-item" to="works/graphic-designs">
@@ -113,7 +113,7 @@
                 Live Streams
               </NuxtLink>
             </div>
-          </li> -->
+          </li>
 <!--          <li class="nav-item dropdown" @click="handleDropdown">
             <span
               class="nav-link dropdown-toggle"
@@ -143,12 +143,12 @@
             </div>
           </li>-->
           <li class="nav-item">
-            <NuxtLink class="nav-link" to="/contact">
+            <NuxtLink class="nav-link" to="/contact/contact-dark">
               Contact
             </NuxtLink>
           </li>
           <li class="nav-item">
-            <a href="#" id="resumeButton" class="butn color " >
+            <a href="https://mostafaeltaweel.com/cv.pdf" id="resumeButton" class="butn color " >
               <span>Resume</span>
             </a>
           </li>

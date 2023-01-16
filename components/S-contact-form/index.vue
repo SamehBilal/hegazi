@@ -14,7 +14,7 @@
       <div class="row justify-content-center">
         <div class="col-lg-10">
           <div class="form wow fadeInUp" data-wow-delay=".5s">
-            <form id="contact-form" method="get">
+            <form id="contact-form" method="get" action="https://mostafaeltaweel.com/contact.php">
               <div class="messages"></div>
               <div class="controls">
                 <div class="row">
